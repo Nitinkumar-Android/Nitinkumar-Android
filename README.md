@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Nitinkumar</h1>
 <h3 align="center">I am full stack Android application developer from india</h3>
 
-<img align="right" alt="Android developer" width="400" src=https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif
+<img align="right" alt="Android developer" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif
 "/>
 
 -  I’m currently working on **Android application develop**
